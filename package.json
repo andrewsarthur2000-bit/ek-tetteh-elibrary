@@ -1,0 +1,11 @@
+{
+  "name": "ek-tetteh-elibrary",
+  "version": "1.0.0",
+  "private": true,
+  "description": "E.K. Tetteh Library frontend and Vercel API",
+  "engines": { "node": ">=18.17.0" },
+  "dependencies": {
+    "express": "^4.21.2",
+    "rss-parser": "^3.13.0"
+  }
+}
